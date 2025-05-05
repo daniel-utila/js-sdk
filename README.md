@@ -71,7 +71,7 @@ getBalances();
 
 The SDK uses the credentials of a service account to authenticate API requests. This involves specifying the email associated with the service account and a function to read the private key file asynchronously.
 
-For more detailed documentation on other capabilities such as managing transactions, wallets, etc., refer to the API [documentation](https://api-preview.docs.utila.io/v1alpha1/index.html).
+For more detailed documentation on other capabilities such as managing transactions, wallets, etc., refer to the API [documentation](https://docs.utila.io/).
 
 ## Available Methods
 
